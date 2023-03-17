@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Watch my contribution graph get eaten by the snake. 
+![snake gif](https://github.com/jedandroby/jedandroby/blob/output/github-contribution-grid-snake.gif) 
+
 <!--
 **jedandroby/jedandroby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
