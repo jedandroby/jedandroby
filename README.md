@@ -1,6 +1,12 @@
 ### Hi there 👋
+Welcome to my github!
 
-Watch my contribution graph get eaten by the snake. 
+The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the project3-localcopy.
+
+If you want to get in contact with me feel free to reach out at - robinbthorsen@gmail.com 
+
+
+Enjoy watching my github contributions getting munched on by this virtual snake ;) 
 ![snake gif](https://github.com/jedandroby/jedandroby/blob/output/github-contribution-grid-snake.svg)
 
 <!--
