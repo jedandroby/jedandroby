@@ -3,7 +3,9 @@ Welcome to my github!
 
 The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the project3-localcopy.
 
-If you want to get in contact with me feel free to reach out at - robinbthorsen@gmail.com 
+- 🌱 I’m currently learning - Rust / Everything
+- 📫 How to reach me: ... robinbthorsen@gmail.com 
+- 💬 Currently looking for work 
 
 
 Enjoy watching my github contributions getting munched on by this virtual snake ;) 
