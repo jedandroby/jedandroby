@@ -5,6 +5,7 @@ The most interesting repos currently in my arsenal would be the crypto-stock-das
 
 - 🌱 I’m currently learning - Rust / Everything
 - 📫 How to reach me: ... robinbthorsen@gmail.com 
+- 👯 I’m looking to collaborate on blockchain projects helping people move value
 - 💬 Currently looking for work 
 
 
