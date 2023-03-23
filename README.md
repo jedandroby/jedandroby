@@ -1,7 +1,11 @@
 ### Hi there 👋
 Welcome to my github!
 
-The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the project3-localcopy.
+The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the Smart_contract-rental-system.
+
+The dashboard allows users to pull in their favorite tokens or stocks from yahoo finance, and then run various analysis tools. Montecarlo simulations, along with linear regressions, LSTM, prophet models, and an algorithmic back-tester using RSI or MACD.
+The Smart contract rental system uses solidity and ganache for the smart contracts, and a streamlit interface to display the contracts and allow user inputs. The data is setup to store into an AWS s3 bucket storage. 
+
 
 - 🌱 I’m currently learning - Rust / Everything
 - 📫 How to reach me: ... robinbthorsen@gmail.com 
