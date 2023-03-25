@@ -1,6 +1,10 @@
 ### Hi there 👋
 Welcome to my github!
 
+I recently completed a Fintech Certification course through UC Berkeley. In this course I spent 24 weeks learning python, various packages from pandas to boto3 for AWS integration and streamlit for dashboards and UI.
+Machine Learning was a big part as well learning how to prepare data to train models and make predications and then tune those models to get more accurate predictions based on what you are trying to predict.
+Solidity and smart contract development as well as full-stack dapp development rounded out the course with all my work shown in my repos
+
 The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the Smart_contract-rental-system.
 
 The dashboard allows users to pull in their favorite tokens or stocks from yahoo finance, and then run various analysis tools. Montecarlo simulations, along with linear regressions, LSTM, prophet models, and an algorithmic back-tester using RSI or MACD.
