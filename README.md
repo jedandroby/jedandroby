@@ -11,10 +11,11 @@ The dashboard allows users to pull in their favorite tokens or stocks from yahoo
 The Smart contract rental system uses solidity and ganache for the smart contracts, and a streamlit interface to display the contracts and allow user inputs. The data is setup to store into an AWS s3 bucket storage. 
 
 
-- 🌱 I’m currently learning - Rust / Everything
+- 🌱 I’m currently learning - Rust / Solidity / Everything
 - 📫 How to reach me: ... robinbthorsen@gmail.com 
 - 👯 I’m looking to collaborate on blockchain projects helping people move value
 - 💬 Currently looking for work 
+- 🔭 I’m currently working as a Manager for a local business renting and selling mopeds and scooters, helping owner with various projects.
 
 
 Enjoy watching my github contributions getting munched on by this virtual snake ;) 
