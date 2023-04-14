@@ -8,7 +8,7 @@ Solidity and smart contract development as well as full-stack dapp development r
 The most interesting repos currently in my arsenal would be the crypto-stock-dashboard, and the Smart_contract-rental-system.
 
 The dashboard allows users to pull in their favorite tokens or stocks from yahoo finance, and then run various analysis tools. Montecarlo simulations, along with linear regressions, LSTM, prophet models, and an algorithmic back-tester using RSI or MACD.
-The Smart contract rental system uses solidity and ganache for the smart contracts, and a streamlit interface to display the contracts and allow user inputs. The data is setup to store into an AWS s3 bucket storage. 
+The Smart contract rental system uses solidity and ganache for the smart contracts, and a streamlit interface to display the contracts and allow user inputs. The data is setup to store into an AWS S3 bucket storage. 
 
 
 - 🌱 I’m currently learning - Rust / Solidity / Typescript / Everything
@@ -18,7 +18,7 @@ The Smart contract rental system uses solidity and ganache for the smart contrac
 - 🔭 I’m currently working as a Manager for a local business renting and selling mopeds and scooters, helping owner with various projects.
 
 
-Enjoy watching my github contributions getting munched on by this virtual snake ;) 
+Enjoy watching my github contributions getting eaten up by this virtual snake XD
 ![snake gif](https://github.com/jedandroby/jedandroby/blob/output/github-contribution-grid-snake.svg)
 
 <!--
