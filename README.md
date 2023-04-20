@@ -13,7 +13,7 @@ The Smart contract rental system uses solidity and ganache for the smart contrac
 
 - 🌱 I’m currently learning - Rust / Solidity / Typescript / Everything
 - 📫 How to reach me: ... robinbthorsen@gmail.com 
-- 👯 I’m looking to collaborate on blockchain projects helping people move value
+- 👯 I’m looking to collaborate on blockchain projects helping people solve problems
 - 💬 Currently looking for work 
 - 🔭 I’m currently working as a Manager for a local business renting and selling mopeds and scooters, helping owner with various projects.
 
