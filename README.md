@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 Welcome to my github!
 
 I recently completed a Fintech Certification course through UC Berkeley. In this course I spent 24 weeks learning python, various packages from pandas to boto3 for AWS integration and streamlit for dashboards and UI.
